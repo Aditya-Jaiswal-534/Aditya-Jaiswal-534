@@ -18,7 +18,7 @@
 - **Programming Languages:** C++, Python
 - **Web Development:** HTML, CSS, JavaScript, Tailwind CSS, React.js, Node.js, Express.js
 - **Databases:** MongoDB
-- **Machine Learning:** Scikit-learn
+- **Machine Learning:** Scikit-learn,Numpy, Pandas,Matplotlib
 - **Other:** Data Structures and Algorithms
 
 ### 💞️ Looking to Collaborate On
