@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>B.Tech in Computer Science and Engineering at IIT Jodhpur</strong><br>
-  <em>Tech Enthusiast | Full Stack Development Learner | Machine Learning Learner</em>
+  <em>Tech Enthusiast | Full Stack Development  | Machine Learning </em>
 </p>
 
 ---
